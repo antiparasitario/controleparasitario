@@ -156,7 +156,7 @@ h2{font-size:35px;}
 h2{font-size:30px;line-height:40px;}
 h5{line-height:25px;}
 .subscribe [class*="col-"]:not(:first-child){margin-top:30px;}
-.masthead{padding:40px 15px;background-attachment:scroll;}
+.masthead{padding:40px 15px;background-attachment:scroll; background-image:none!important; background:#FFF;}
 .masthead .sub-title{font-size:18px;line-height:25px;}
 .signup-block .form-title{font-size:20px;}
 .input-lg{font-size:16px;height:45px;}
