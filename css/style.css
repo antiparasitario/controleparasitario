@@ -50,11 +50,11 @@ to{opacity:1;-webkit-transform:translateY(0);-moz-transform:translateY(0);transf
 .inline{display:inline-block;}
 .btn-large{font-size:18px;padding:20px 50px;margin:5px 10px;}
 .btn-success{background-color:#2ecc71;background-image:none;border:0;-webkit-box-shadow:0 3px 0 rgba(2,154,67,1);box-shadow:0 3px 0 rgba(2,154,67,1);line-height:1.8;}
-.btn-success:hover, .btn-success:focus, .btn-success:active{background-color:#29c36a;color:#FFF;border:0;-webkit-box-shadow:0 3px 0 rgba(2,139,61,1);box-shadow:0 3px 0 rgba(2,139,61,1);}
+.btn-success:hover, .btn-success:focus, .btn-success:active{background-color:#29c36a;color:#000;border:0;-webkit-box-shadow:0 3px 0 rgba(2,139,61,1);box-shadow:0 3px 0 rgba(2,139,61,1);}
 .btn-primary{background-color:#23306b;border:solid 1px #23306b;line-height:1.8;-webkit-box-shadow:0 3px 0 rgb(24,36,87);box-shadow:0 3px 0 rgb(24,36,87);}
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active{background-color:#2d3978;border:solid 1px #23306b;-webkit-box-shadow:0 3px 0 rgb(24,36,87);box-shadow:0 3px 0 rgb(24,36,87);}
-.btn-warning{background-color:	#640064;line-height:1.8;-webkit-box-shadow:0 3px 0 #384047;box-shadow:0 3px 0 #384047; border-color: #000;}
-.btn-warning:hover, .btn-warning:focus, .btn-warning:active{background-color:	#640064;-webkit-box-shadow:0 3px 0 #384047;box-shadow:0 3px 0 #384047; border-color: #000;}
+.btn-warning{background-color:	#1E90FF; color:#000; font-weight:bold; line-height;:1.8;-webkit-box-shadow:0 3px 0 #384047;box-shadow:0 3px 0 #384047; border-color: #000;}
+.btn-warning:hover, .btn-warning:focus, .btn-warning:active{background-color:	#1E90FF;-webkit-box-shadow:0 3px 0 #000;box-shadow:0 3px 0 #000; border-color: #000;  color:#000; font-weight:bold;}
 .btn-grey{background-color:#868c96;line-height:1.8;color:#FFF;-webkit-box-shadow:0 3px 0 rgb(108,115,107);box-shadow:0 3px 0 rgb(108,115,107);}
 .btn-grey:hover, .btn-grey:focus, .btn-grey:active{background-color:#8F959E;color:#FFF;-webkit-box-shadow:0 3px 0 rgb(108,115,107);box-shadow:0 3px 0 rgb(108,115,107);}
 .subscribe{padding:45px 0;}
